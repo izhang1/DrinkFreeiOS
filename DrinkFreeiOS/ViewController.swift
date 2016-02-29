@@ -6,6 +6,7 @@
 //  Copyright © 2016 NovusApp. All rights reserved.
 //
 
+import Firebase
 import UIKit
 
 class ViewController: UIViewController {
